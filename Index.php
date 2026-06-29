@@ -21,7 +21,7 @@
             <a href="index.php">Accueil</a>
             <a href="matieres.php">Matières</a>
             <a href="fiches.php">Fiches</a>
-            <a href="mes_fiches.php">mes_fiches</a>
+            <a href="mes_fiches.php">Mes Fiches</a>
             <a href="ajouter.php">Ajouter</a>
              <a href="connexion.php">connexion</a>
               <a href="inscription.php">inscription</a>
